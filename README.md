@@ -10,13 +10,6 @@
 		src="https://lh6.googleusercontent.com/b2eYHgc3y0PfB3s6iZhLZX9Z8bOTnZYEqkkUXOUYnzN65i5foovgCgsagsvWhidBeNkf9dIxbqMqHSup4f1xuaypJvMynobRoIkpmDyIZWRSBlfjx6iELe7BB6VvcHbz8pz_UfiO">
 	</a>
 </p>
-
-## Tokens
- **- Steven:  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**
- 
- **- Pablo:  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**
- 
- **- Igna:  ghp_M1XJHvmmViJJctBIjb75yUSd4VIIbp26xBqQ**
  
 ## Preparar server puTTY
 
