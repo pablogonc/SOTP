@@ -11,14 +11,6 @@
 	</a>
 </p>
  
-## Preparar server puTTY
-
- - Abrir maquina virtual con server
- - En VB maquina &rarr;  configuracion &rarr; red &rarr; Adpatador puente 
-	- [x] permitir lo de promiscuidad (creo)
- 3.  Ahora en la maquina poner: `ssh utnso@localhost -p 22`
- 4. En puTTY llenar con ip (ifconfig) de la maquina y el puerto 22
-
 ## Tests
 [Documento de pruebas](https://docs.google.com/document/d/1SBBTCweMCiBg6TPTt7zxdinRh4ealRasbu0bVlkty5o/edit)
 ### Ejecucion
