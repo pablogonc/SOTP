@@ -95,17 +95,3 @@ https://github.com/sisoputnfrba/so-commons-library.git
 ### Librería con utilidades
 
 *Tiene funciones para hacer las conexiones entre los módulos, variables globales*
-  
-  Abrir terminal en utnso:
-
-    cd ./utils
-    sudo make install
-
- *Si se agregan funciones o variables: compilar y después volver a instalar.* 
- 
-  **Para que los proyectos detecten los cambios:**
- 
-   **Click derecho (carpeta proyecto) &rarr; index &rarr; Freshen All Files**
-
- 
-
